@@ -1,5 +1,5 @@
 - 👋 Hi! I'm @DevMark006. You can call me Mark. I'm interested working on many projects especially in web, applicaton and software development.
 - I'm currently learning and improving my coding skills and knowledge in different programming languages.
 - I had some previous experience and projects done in these languanges (HTML, CSS, PYTHON, JAVA, C++, and R).
-- Now I wanted to focus on deep learning python and java and since python is quite simple to understand also java and python are object-oriented languages.
+- Now I wanted to focus on these technologies such as Bootstrap, React and Javascript to improve my web development skills.
 - Hope we can collaborate and learn together, Thank you!

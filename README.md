@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="center">About me</h3>
+<h3 align="center">About</h3>
 
 ###
 
-<p align="center">I have experience in full-stack development and have work on personal projects such as weather tracking site and product landing page.</p>
+<p align="center">I recently graduated with a degree in Information Technology and am currently focusing on web development. I'm actively working on personal projects to sharpen my skills and expand my knowledge. I have experience in full-stack development, utilizing various technologies.</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###

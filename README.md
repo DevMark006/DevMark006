@@ -1,5 +1,4 @@
-- 👋 Hi! I'm @DevMark006. You can call me Mark. I'm interested working on many projects especially in web development.
-- I'm currently learning and improving my coding skills and knowledge in different programming languages.
-- I have experience and have done many projects from the past.
-- I wanted to expand my knowledge in web development and become a full-stack. 
-- I hope we can collaborate and learn together, Thank you!
+About Me
+———————————————————————————————————————————————————————————
+Hello! I'm Mark a Web developer I work on a fullstack web project using HTML, CSS, JavaScript, PHP 
+Currently Looking for opportunity

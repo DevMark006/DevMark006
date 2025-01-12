@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">A full-stack web developer looking for new opportunities in web development</h3>
+<h3 align="center">A full-stack web developer looking for new opportunities in web development and software development</h3>
 
 ###
 

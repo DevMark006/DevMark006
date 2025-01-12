@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I recently graduated with a degree in Information Technology and am currently focusing on web development. I'm actively working on personal projects to sharpen my skills and expand my knowledge. I have experience in full-stack development, utilizing various technologies.</p>
+<p align="center">I am a graduate with a degree in Information Technology and my focus is web and software development. I made various projects before and I'm still actively working on personal projects using various technologies. I have experience in both front-end and back-end development.</p>
 
 ###
 

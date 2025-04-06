@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">I'm a Information Technology Graduate pursuing web development. I like to learn and create projects on my free time also to boost my 
+<h3 align="center">I'm a Information Technology Graduate pursuing web development. I like to learn and create projects on my free time and also to boost my 
 learning development. I'm focused on back-end development rather than front-end because I'm not good at design but can do simple UI myself. My passion is 
 building a robust and scalable web application and soon hoping to start my own start-up company. </p>
 

@@ -2,13 +2,12 @@
 
 ###
 
-<h3 align="center">A Junior Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 ###
 
 <h3 align="center">I'm a Information Technology Graduate pursuing web development. I like to learn and create projects on my free time and also to boost my 
-learning development. I'm focused on back-end development rather than front-end because I'm not good at design but can do simple UI myself. My passion is 
-building a robust and scalable web application and soon hoping to start my own start-up company. </p>
+learning development. I'm focused in building a robust and scalable web application and soon hoping to start my own start-up company. </p>
 
 ###
 

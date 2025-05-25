@@ -11,7 +11,7 @@ learning development. I'm focused in building a robust and scalable web applicat
 
 ###
 
-<h3 align="center">Technologies and Tools I Use</h3>
+<h3 align="center">Technologies and Tools</h3>
 
 ###
 
